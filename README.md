@@ -1,2 +1,2 @@
 # road-surface-recognition
-Кecognition of road surface boundaries
+Recognition of road surface boundaries
