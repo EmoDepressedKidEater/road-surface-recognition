@@ -1,0 +1,1 @@
+# OpenCV implementation of traditional computer vision techniques.

@@ -1,0 +1,8 @@
+# Python dependencies
+numpy
+opencv-python
+PyYAML
+scikit-learn
+torch
+ torchvision
+ matplotlib
